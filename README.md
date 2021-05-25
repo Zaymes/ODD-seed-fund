@@ -5,7 +5,7 @@ A collection of deliverables and resources developed by using the Open Data Day 
 - [Tulsipur Public Bodies URL Mapping](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/PublicBodies%20URL%20Mapping%20-%20Sheet1.csv)
 - [Resources Reports Mapping for Tulsipur Local Bodies](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/Resources%20and%20Datasets%20Mapping%20-%20Sheet1.csv)
 - [Report Mapping for Dang](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Mapping/dang_report.csv)
-- [Report Mapping for Dang with urls and meta datas](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Mapping/dang_report_with_urls.csv)
+- [Report Mapping for Dang with urls and meta data](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Mapping/dang_report_with_urls.csv)
 
 # Datasets
 - [Datasets for Tuslipur Sub-Metropolitan City](https://github.com/Zaymes/ODD-seed-fund/tree/main/Datasets/Tulsipur%20Sub-Metropolitan%20City)
